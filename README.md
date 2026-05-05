@@ -13,7 +13,7 @@
 
 
 <!--Intro start-->
-- 🌱 I’m a second-year undergraduate in the Department of Computing at the University of Peradeniya.
+- 🌱 I’m a third-year undergraduate in the Department of Computing at the University of Peradeniya.
 
 - 📫 Feel free to reach me out *e21019@eng.pdn.ac.lk*
 
